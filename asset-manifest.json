@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/employee_skills/static/css/main.e6c13ad2.css",
+    "main.js": "/employee_skills/static/js/main.e24d09cc.js",
+    "static/js/453.6fd3e1fb.chunk.js": "/employee_skills/static/js/453.6fd3e1fb.chunk.js",
+    "index.html": "/employee_skills/index.html",
+    "main.e6c13ad2.css.map": "/employee_skills/static/css/main.e6c13ad2.css.map",
+    "main.e24d09cc.js.map": "/employee_skills/static/js/main.e24d09cc.js.map",
+    "453.6fd3e1fb.chunk.js.map": "/employee_skills/static/js/453.6fd3e1fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e24d09cc.js"
+  ]
+}
